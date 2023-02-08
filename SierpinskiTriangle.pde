@@ -1,12 +1,6 @@
 
-public class Sketch extends PApplet {
-
-  public void settings() {
-    size(400, 400);
-  }
-
   public void setup() {
-    // empty!
+     size(400, 400);
   }
 
   public void draw() {
